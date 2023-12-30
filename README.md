@@ -1,3 +1,5 @@
+![Screenshot (25)](https://github.com/devesh1702/HR-Analytics-Dashboard/assets/92182581/a7d9303e-f12c-46c2-aba5-24a507f294a1)
+
 Objective:
 Help an organization to improve emloyee performance and imporove retention (reduce attrition) by creating an HR Analytics dashboard.
 
